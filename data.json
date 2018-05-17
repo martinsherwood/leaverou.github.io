@@ -1276,6 +1276,8 @@
 		}
 	],
 	"project": [
+		{},
+		{},
 		{
 			"url": "https://mavo.io",
 			"image": "http://mavo.io/logo.svg",
